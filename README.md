@@ -2,7 +2,7 @@
 
 List of awesome projects and information resources about the [Metaverse](https://en.wikipedia.org/wiki/Metaverse). Since
 there are many competing ideas about what the Metaverse is, feel free to leave feedback in the form of pull requests,
-issues, and comments. You can also reach us through [discord](https://discord.gg/m3org).
+issues, and comments. You can also reach us through [discord](https://discord.gg/m3-org).
 
 ---
 
@@ -69,7 +69,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
 - [Third Room](https://thirdroom.io/preview) - Open, decentralised, immersive worlds built on [Matrix](https://matrix.org/) protocol
 - [Croquet](https://croquet.io/croquet-os/) - A new web-based operating system that runs on any device
 - [Three Object Viewer (3OV)](https://3ov.xyz) - Open Source WordPress plugin with WebXR and AI integrations
-- [The Wired](https://www.thewired.space/) - Open source web-based metaverse platform that supoprts VRM + glTF
+- [Unavi](https://github.com/unavi-xyz) - Open source web-based metaverse platform that supoprts VRM + glTF
 
 ### Open Source Tools
 
@@ -279,7 +279,7 @@ issues, and comments. You can also reach us through [discord](https://discord.gg
   metaverse discussion by TrevorFSmith
 - [Raph Koster's Website](https://www.raphkoster.com/2007/10/10/interoperability/) - Industry veteran that has been
   working on virtual worlds and interop for decades
-- [xrdevlog](https://hackmd.io/@xr/book) - Metaverse interoperability projects and experiments from M3 / jin
+- [M3 dev logs](https://hackmd.io/@xr/book) - Metaverse interoperability projects and experiments from M3 / jin
   by [dankvr](https://twitter.com/dankvr)
 - [AngellXR](https://angellxr.com/) - A Metaverse Incubation Community championing interoperability and collaboration.
 - [XRShowcase](https://xrshowcase.xyz) - A fun collection of web-based XR experiences.
